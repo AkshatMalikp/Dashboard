@@ -1,5 +1,4 @@
-# Dashboard
-# Title: Facial Expression Recognition
+# Title: Dashboard
 # 1. Description
 # A static React-Js website of a Dashboard
 # 2. Live link
